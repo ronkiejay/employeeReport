@@ -1,0 +1,113 @@
+Employee Slip Report for the Month of April
+
+
+EmployeeId: 38474
+Employee Full Name: John Smith 
+Employee Type: F
+Gross Salary: 36500.0. 
+Deductions: 9158.0
+Net Pay: 27342.0.
+
+
+
+EmployeeId: 83744
+Employee Full Name: Jon Snow 
+Employee Type: F
+Gross Salary: 18400.0. 
+Deductions: 4633.0
+Net Pay: 13767.0.
+
+
+
+EmployeeId: 38747
+Employee Full Name: Grace Amah 
+Employee Type: N
+Gross Salary: 4361.2125. 
+Deductions: 1123.303125
+Net Pay: 3237.9093749999997.
+
+
+
+EmployeeId: 73829
+Employee Full Name: Faith Collins 
+Employee Type: F
+Gross Salary: 26656.25. 
+Deductions: 6697.0625
+Net Pay: 19959.1875.
+
+
+
+EmployeeId: 82736
+Employee Full Name: Lissey Friesens 
+Employee Type: N
+Gross Salary: 6615.241875. 
+Deductions: 1686.81046875
+Net Pay: 4928.43140625.
+
+
+
+EmployeeId: 23748
+Employee Full Name: Mercy Johnson 
+Employee Type: N
+Gross Salary: 3345.0875. 
+Deductions: 869.271875
+Net Pay: 2475.815625.
+
+
+
+EmployeeId: 83748
+Employee Full Name: Craig James 
+Employee Type: F
+Gross Salary: 17200.0. 
+Deductions: 4333.0
+Net Pay: 12867.0.
+
+
+
+EmployeeId: 83746
+Employee Full Name: Trinth Vinces 
+Employee Type: F
+Gross Salary: 29150.0. 
+Deductions: 7320.5
+Net Pay: 21829.5.
+
+
+
+EmployeeId: 48393
+Employee Full Name: Gregory Mathias 
+Employee Type: F
+Gross Salary: 16300.0. 
+Deductions: 4108.0
+Net Pay: 12192.0.
+
+
+
+EmployeeId: 74658
+Employee Full Name: Marnie Finns 
+Employee Type: N
+Gross Salary: 2784.2687499999997. 
+Deductions: 715.2671875
+Net Pay: 2069.0015624999996.
+
+
+
+EmployeeId: 72647
+Employee Full Name: Yemmy Flawy 
+Employee Type: F
+Gross Salary: 17200.0. 
+Deductions: 4333.0
+Net Pay: 12867.0.
+
+
+
+EmployeeId: 57483
+Employee Full Name: Grace Brent 
+Employee Type: N
+Gross Salary: 521.6425. 
+Deductions: 0.0
+Net Pay: 521.6425.
+
+
+Total Number of processed employees: 12
+Total number of processed faculty employees 7
+Total number of processed non faculty employees 5

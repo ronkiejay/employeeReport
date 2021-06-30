@@ -1,0 +1,41 @@
+Employee Slip Report for the Month of April
+
+
+EmployeeId: 38747
+Employee Full Name: Philemon Ajibola 
+Employee Type: f
+Gross Salary: 32300.0. 
+Deductions: 8108.0
+Net Pay: 24192.0.
+
+
+
+EmployeeId: 84739
+Employee Full Name: Aaron Ajibola 
+Employee Type: F
+Gross Salary: 32125.0. 
+Deductions: 8064.25
+Net Pay: 24060.75.
+
+
+
+EmployeeId: 28374
+Employee Full Name: Hannah Ajibola 
+Employee Type: N
+Gross Salary: 20212.5. 
+Deductions: 5086.125
+Net Pay: 15126.375.
+
+
+
+EmployeeId: 92874
+Employee Full Name: Ronke fapeut 
+Employee Type: F
+Gross Salary: 16200.0. 
+Deductions: 4083.0
+Net Pay: 12117.0.
+
+
+Total Number of processed employees: 4
+Total number of processed faculty employees 3
+Total number of processed non faculty employees 1
